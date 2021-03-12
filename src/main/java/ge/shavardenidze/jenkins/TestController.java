@@ -10,7 +10,7 @@ public class TestController {
 
     @GetMapping(value = "")
     public String authorizedUser() {
-        return "Test 12" ;
+        return "Test 2" ;
     }
 
 }
